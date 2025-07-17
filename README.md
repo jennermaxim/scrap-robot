@@ -5,3 +5,6 @@ Due to the frequent use of metal, metal parts are dumped unnecessarily. This mak
 
 ## Problem Statement
 Scrap collection is a hazardous activity for humans to undertake due to the nature of metal, which can easily damage a person’s skin. Therefore, the vision of this project is to develop a robot that takes care of collecting scrap metal in a given area and placing the collected scrap in a defined pickup center.
+
+Rigged Threads Wheels
+<img src='Screenshots/3.mp4' />
