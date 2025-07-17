@@ -12,3 +12,7 @@ Scrap collection is a hazardous activity for humans to undertake due to the natu
 https://github.com/user-attachments/assets/7cf4bfcf-48e6-45ed-a042-e284205f8ff4
 
 ### Environment
+
+
+https://github.com/user-attachments/assets/eb010fe4-5618-4f0f-8078-7556629571f5
+
